@@ -1,4 +1,4 @@
 Documentation
 =============
 
-Documentation for Arturo.io
+This is the home of the Arturo.io documentation.
