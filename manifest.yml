@@ -3,4 +3,6 @@ formats:
   - html
 pages:
   - 01-Getting-Started.md
+  - 02-Manifest.md
+  - 03-Non-Manifest.md
 
