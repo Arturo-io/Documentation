@@ -3,7 +3,7 @@
 A commit *can* contain a `manifest.yml` file. This file is in
 the [YAML](http://en.wikipedia.org/wiki/YAML) format. You can
 configure and customize most of the generated output, such as
-page order, title, formats, title, etc.
+page order, title, formats, title, etc.  An example `manifest.yml` can be found in this documentations [repo](https://github.com/Arturo-io/Documentation/blob/master/manifest.yml).
 
 ##Options
 
