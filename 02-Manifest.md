@@ -7,6 +7,8 @@ page order, title, formats, title, etc.
 
 ##Options
 
+: Sample grid table.
+
 +---------------+---------------+--------------------+
 | Fruit         | Price         | Advantages         |
 +===============+===============+====================+
