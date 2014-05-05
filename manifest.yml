@@ -6,4 +6,4 @@ pages:
   - 02-Manifest.md
   - 03-Non-Manifest.md
   - 04-Markdown.md
-
+stylesheet: 'assets/styles.css'
