@@ -6,6 +6,10 @@ configure and customize most of the generated output, such as
 page order, title, formats, title, etc.  An example `manifest.yml` can be found in this documentations [repo](https://github.com/Arturo-io/Documentation/blob/master/manifest.yml).
 
 ##Options
+`css` String
+
+The relative path to a stylesheet which is applied to *most* formats.
+
 
 `author` String
 
