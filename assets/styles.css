@@ -2,3 +2,14 @@ code {
   background-color: #f8f8f8;
   border: 1px solid #ddd; 
 }
+
+#TOC {
+  position: fixed;
+  left: 0;
+  font-size: .8em;
+  height: 100%;
+  background-color: #EFEDDF;
+  top: 0;
+  overflow: hidden;
+  width: 25%;
+}
