@@ -21,7 +21,7 @@ Sync will automatically refresh your repositories when they are ready. Once comp
 
 Click the *follow* button to enable the repository on Arturo.
 
-##Step 3: Add a manifest.yml file to your repository
+##Step 3: Add a manifest.yml
 
 Arturo needs to know a little more about your repository in order to build your book. A file named `manifest.yml` will need to be created at your repositories root directory.  We'll cover more about a manifest in the *manifest builds* section and what options are available to you.
 
