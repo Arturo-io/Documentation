@@ -8,8 +8,15 @@ code {
   left: 0;
   font-size: .8em;
   height: 100%;
-  background-color: #EFEDDF;
+  background-color: #f2f2f2;
+  border-right: 1px solid #dddddd;
   top: 0;
   overflow: hidden;
   width: 22%;
 }
+
+#TOC ul {
+  padding-left: 1em;
+  border-bottom: 1px solid #ddd;
+}
+
