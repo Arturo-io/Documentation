@@ -3,7 +3,7 @@
 [Arturo.io](http://arturo.io) is a build system for digital books.
 Books are written in the [markdown](http://daringfireball.net/projects/markdown/syntax)
 format and stored on [GitHub](https://github.com/).  Arturo reads the
-`manifest.yml` file that provides most of the configuration and 
+`manifest.yml` file that provides most of the configuration and
 customization.
 
 ##Step 1: Sign in
@@ -19,7 +19,9 @@ Once you've signed in you will need to sync your repos from GitHub, go to your [
 
 Sync will automatically refresh your repositories when they are ready. Once completed you will see all the organizations you're a member of.
 
-Click the *follow* button to enable the repository on Arturo.
+Click the *follow* under the build column button to enable the repository on Arturo.
+
+![The follow link](images/follow.png)
 
 ##Step 3: Add a manifest.yml
 
