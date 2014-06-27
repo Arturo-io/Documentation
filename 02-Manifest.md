@@ -25,19 +25,21 @@ The title of the book.
 
 An array of relative paths.  The book will be assembled in the order of pages given here.
 
+
 `formats` Array of Strings
 
-An array of formats that should be generated.  Deafults to *html, pdf, epub, mobi
+An array of formats that should be generated. Defaults to *html, pdf, epub, mobi*
 
 
 `table_of_contents` Boolean
 
-Defualts to *true*.  Enabling will generate a table of contents and append it to the beginning of the book.  Headings are used to generate the TOC.
+Defaults to *true*.  Enabling will generate a table of contents and append it to the beginning of the book.  Headings are used to generate the TOC.
 
 
 `include_before_body` String
 
 A relative path to the file that should be included before each pages body.
+
 
 `include_after_body` String
 
